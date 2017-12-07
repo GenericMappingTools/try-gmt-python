@@ -9,19 +9,19 @@ To run it locally, follow these steps:
 
 0. Install the [Anaconda Python distribution](https://www.anaconda.com/download/).
 1. Clone this repository:
-
+    ```bash
     git clone https://github.com/GenericMappingTools/try-gmt-python.git
     cd try-gmt-python
-
+    ```
 2. Create a conda environment with the required dependencies and activate it:
-
+    ```bash
     conda env create
     source activate try-gmt-python
-
+    ```
 3. Run the Jupyter notebook server:
-
+    ```bash
     jupyter notebook
-
+    ```
 
 ## License
 
